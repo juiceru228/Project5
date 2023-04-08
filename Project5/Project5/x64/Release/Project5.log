@@ -1,0 +1,12 @@
+﻿  fn.c
+  Source.c
+C:\Users\juice\source\repos\Project5\Project5\Source.c(10,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\juice\source\repos\Project5\Project5\Source.c(21,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\juice\source\repos\Project5\Project5\Source.c(21,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\juice\source\repos\Project5\Project5\Source.c(21,10): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\juice\source\repos\Project5\Project5\Source.c(21,10): message : этот аргумент используется в качестве размера буфера
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Project5.vcxproj -> C:\Users\juice\source\repos\Project5\x64\Release\Project5.exe
